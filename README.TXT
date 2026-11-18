@@ -9,3 +9,4 @@ This project is part of the material for chapter 8 of the book
 
 It implements a second (partly improved) version of a news feed 
 for a social network.
+first commit for the original project
