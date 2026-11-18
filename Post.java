@@ -113,5 +113,10 @@ public class Post
         else {
             return seconds + " seconds ago";
         }
+        
     }
+    public String getUserName()
+{
+    return username;
+}
 }

@@ -30,7 +30,12 @@ public class MessagePost extends Post
      * @return The post's message text.
      */
     public String getText()
-    {
-        return message;
-    }
+{
+    return message;
 }
+
+public void printShortSummary()
+{
+    System.out.println("Message post from " + getUserName());
+}
+    }
